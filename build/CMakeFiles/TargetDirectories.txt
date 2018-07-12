@@ -1,0 +1,7 @@
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/install.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/list_install_components.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/rebuild_cache.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/testgit.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/install/strip.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/install/local.dir
+/home/sunbaiwan9527/projects/testgit/build/CMakeFiles/edit_cache.dir
